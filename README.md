@@ -1,3 +1,6 @@
+# Deprecation notice (2023-07-26)
+The ts-proto library recently incorporated support for Wrapper Types, as detailed in [stephenh/ts-proto#762](https://github.com/stephenh/ts-proto/pull/762). See the [original issue](https://github.com/stephenh/ts-proto/issues/69) for further understanding of what this library tried to fix, and the [comment](https://github.com/stephenh/ts-proto/issues/69#issuecomment-1409632438) announcing the fix.
+
 # Protobufjs with support for .google.protobuf.Timestamp
 
 [![NPM](https://img.shields.io/npm/l/@enriqcg/protobufjs-wrapper-types)](https://www.npmjs.com/package/@enriqcg/protobufjs-wrapper-types)
